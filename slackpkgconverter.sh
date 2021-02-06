@@ -1,8 +1,26 @@
 #!/bin/bash
+#
+#                      ::::::
+#                    :+:  :+:
+#                   +:+   +:+
+#                  +#++:++#++:::::::
+#                 +#+     +#+     :+:
+#               ###       ###+:++#""
+#                         +#+
+#                         #+#
+#                         ###
+#
+#__author__ = "Alex Pujols"
+#__copyright__ = "TBD"
+#__credits__ = ["Alex Pujols"]
+#__license__ = "GPL"
+#__version__ = "1.0"
+#__maintainer__ = "Alex Pujols"
+#__email__ = "alex.pujols@gmail.com"
+#__status__ = "Prototype"
+#
 #: Title	:	slackpkgconverter
 #: Date		:	10-28-2020
-#: Author	:	"Alex Pujols" <alex.pujols@gmail.com>
-#: Version	:	1.0
 #: Description  :	Package conversion utility for *.DEB to *.TXZ
 #: Options	:	None
 
